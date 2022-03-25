@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\2ededintopl.exe
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\2ededintopl.deps.json
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\2ededintopl.runtimeconfig.json
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\2ededintopl.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\2ededintopl.dll
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\ref\2ededintopl.dll
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\bin\Debug\net5.0\2ededintopl.pdb
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.dll
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\ref\2ededintopl.dll
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.pdb
+C:\Users\Qasimov\source\repos\2ededintopl\2ededintopl\obj\Debug\net5.0\2ededintopl.genruntimeconfig.cache
